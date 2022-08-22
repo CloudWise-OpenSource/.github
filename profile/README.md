@@ -15,11 +15,16 @@ AIOps社区是由云智慧发起，针对运维业务场景，提供算法、算
 
 - 👨🏻‍💻 &nbsp; 社区已成立 [AIOps社区专家团](https://www.cloudwise.ai/communityPanel.html)，欢迎加入
 
-- 💬 &nbsp; 关于云智慧产品生态合作或技术咨询，欢迎添加微信xiaoyuerwise或邮件至open.source@cloudwise.com
+- 💬 &nbsp; 关于云智慧产品生态合作或技术咨询，欢迎添加微信或邮件至开源能力部
 
 <br/>
 <br/>
+
+### 联系我们
+- 邮箱：open.source@cloudwise.com
+- 微信：xiaoyuerwise
 <br/>
+
 
 ### 🔨 Languages and Tools:
 
